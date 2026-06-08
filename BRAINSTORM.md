@@ -48,4 +48,4 @@
 
 
 
-Priorities, reminders, checklists, progression...# Brainsmith
+Priorities, reminders, checklists, progression...
