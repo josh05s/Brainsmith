@@ -22,7 +22,7 @@
  
  
  
- Consistency
+ Consistency -
  A Mobile Application
 
 
@@ -49,3 +49,4 @@
 
 
 Priorities, reminders, checklists, progression...
+​†
